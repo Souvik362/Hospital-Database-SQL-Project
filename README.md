@@ -1,4 +1,4 @@
-# 🏥 Hospital Database SQL Practice
+# 🏥 Hospital Database SQL Project
 
 A comprehensive SQL practice project using a simulated hospital database schema from [sql-practice.com](https://sql-practice.com), featuring real-world scenarios, complex queries, and advanced data logic. This project includes queries across **Easy, Medium, and Hard** levels, covering a wide range of SQL concepts.
 
